@@ -1,1 +1,1 @@
-https://address.memoryhackers.org/
+https://raw.githubusercontent.com/leftspace89/ui.memory/master/ui.core/address.txt
